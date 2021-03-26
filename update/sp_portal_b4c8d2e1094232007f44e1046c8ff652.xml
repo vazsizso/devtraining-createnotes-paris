@@ -22,6 +22,7 @@ $btn-default-bg: #fff;
 $text-muted: #979797;
 </css_variables>
         <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
         <homepage display_value="notes_home">a61956e1094232007f44e1046c8ff68b</homepage>
         <icon/>
         <kb_knowledge_base/>
@@ -50,6 +51,7 @@ $text-muted: #979797;
         <sys_updated_on>2017-04-10 19:12:21</sys_updated_on>
         <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
         <title>CreateNotes</title>
+        <ts_index_group/>
         <url_suffix>notes</url_suffix>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=b4c8d2e1094232007f44e1046c8ff652"/>
@@ -58,7 +60,9 @@ $text-muted: #979797;
         <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
+        <hash/>
         <image_height>78</image_height>
         <image_width>261</image_width>
         <size_bytes>7420</size_bytes>
@@ -66,6 +70,8 @@ $text-muted: #979797;
         <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-10 19:07:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>84e89aa1094232007f44e1046c8ff69c</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>guest</sys_updated_by>
